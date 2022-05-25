@@ -1,2 +1,2 @@
-# 03-Hoodads-Town
+# Hoodads-Town
 My first simple website during the IT-Ausbildung in Germany, September 2021.
